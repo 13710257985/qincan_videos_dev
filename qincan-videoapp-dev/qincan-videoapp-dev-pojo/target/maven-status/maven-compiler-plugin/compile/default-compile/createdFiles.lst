@@ -1,0 +1,12 @@
+com\qincan\pojo\Users.class
+com\qincan\pojo\UsersLikeVideos.class
+com\qincan\pojo\Comments.class
+com\qincan\pojo\vo\VideosVO.class
+com\qincan\pojo\UsersReport.class
+com\qincan\pojo\UsersFans.class
+com\qincan\pojo\vo\UsersVO.class
+com\qincan\pojo\Bgm.class
+com\qincan\pojo\vo\CommentsVO.class
+com\qincan\pojo\vo\PublisherVideo.class
+com\qincan\pojo\Videos.class
+com\qincan\pojo\SearchRecords.class

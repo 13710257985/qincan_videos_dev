@@ -1,0 +1,13 @@
+com\qincan\controller\RegistLoginController.class
+com\qincan\controller\BgmController.class
+com\qincan\ZKCuratorClient.class
+com\qincan\controller\UserController.class
+com\qincan\controller\interceptor\MiniInterceptor.class
+com\qincan\controller\BasicController.class
+com\qincan\cofig\ResourceConfig.class
+com\qincan\Swagger2.class
+com\qincan\ZKCuratorClient$1.class
+com\qincan\controller\VideoController.class
+com\qincan\WarStartApplication.class
+com\qincan\Application.class
+com\qincan\WebMvcConfig.class

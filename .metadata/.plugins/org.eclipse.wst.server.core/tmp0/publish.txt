@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Wed Jan 30 11:42:37 CST 2019
+org.eclipse.jst.j2ee.server\:qincan-video-admin-service=WEB-INF/lib/qincan-video-admin-service-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:qincan-video-admin-common=WEB-INF/lib/qincan-video-admin-common-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:qincan-video-admin-mapper=WEB-INF/lib/qincan-video-admin-mapper-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:qincan-video-admin-pojo=WEB-INF/lib/qincan-video-admin-pojo-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:/binary\:F\:\\java\\apache-maven-3.3.9-bin\\repository\\org\\springframework\\spring-web\\4.3.8.RELEASE\\spring-web-4.3.8.RELEASE.jar=WEB-INF/lib/spring-web-4.3.8.RELEASE.jar

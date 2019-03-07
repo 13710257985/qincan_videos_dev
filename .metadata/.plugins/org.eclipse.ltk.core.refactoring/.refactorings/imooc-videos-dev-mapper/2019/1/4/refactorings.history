@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CommentsMapperCustom.java&apos; to &apos;qincan-videoapp-dev-mapper/src/main/java/com.qincan.mapper&apos;&#x0D;&#x0A;- Original project: &apos;imooc-videos-dev-mapper&apos;&#x0D;&#x0A;- Destination element: &apos;qincan-videoapp-dev-mapper/src/main/java/com.qincan.mapper&apos;&#x0D;&#x0A;- Original element: &apos;com.imooc.mapper.CommentsMapperCustom.java&apos;" description="Copy compilation unit" destination="=qincan-videoapp-dev-mapper/src\/main\/java&lt;com.qincan.mapper" element1="/src\/main\/java&lt;com.imooc.mapper{CommentsMapperCustom.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1548151890029" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,6 @@
+com\qincan\service\impl\BgmServiceImpl.class
+com\qincan\service\impl\UserServiceImpl.class
+com\qincan\service\VideoService.class
+com\qincan\service\UserService.class
+com\qincan\service\BgmService.class
+com\qincan\service\impl\VideoServiceImpl.class

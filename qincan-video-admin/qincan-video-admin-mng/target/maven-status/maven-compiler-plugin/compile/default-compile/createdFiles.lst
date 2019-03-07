@@ -1,0 +1,6 @@
+com\qincan\controller\UsersController.class
+com\qincan\controller\VideoController.class
+com\qincan\controller\HelloController.class
+com\qincan\bean\AdminUser.class
+com\qincan\controller\BasicController.class
+com\qincan\interceptor\LoginInterceptor.class
